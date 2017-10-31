@@ -1,0 +1,22 @@
+{
+  "name": "zijjj-vue-h5lib",
+  "version": "0.0.6",
+  "description": "一个用来做H5的包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "h5",
+    "WeChat"
+  ],
+  "author": "zijjj",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.5.2"
+  },
+  "dependencies": {
+  	"vue": "^2.5.2",
+    "element-ui": "^2.0.1"
+  }
+}
